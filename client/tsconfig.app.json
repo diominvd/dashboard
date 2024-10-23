@@ -31,8 +31,9 @@
       "@modules/*": ["src/modules/*"],
       "@pages/*": ["src/pages/*"],
       "@providers/*": ["src/providers/*"],
+      "@theme/*": ["src/theme/*"],
       "@ui/*": ["src/ui/*"]
+      },
     },
-  },
   "include": ["src"]
 }

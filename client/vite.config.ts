@@ -12,6 +12,7 @@ export default defineConfig({
          '@modules': path.resolve(__dirname, './src/modules'),
          '@pages': path.resolve(__dirname, './src/pages'),
          '@providers': path.resolve(__dirname, './src/providers'),
+         '@theme': path.resolve(__dirname, './src/theme'),
          '@ui': path.resolve(__dirname, './src/ui')
       },
    },
